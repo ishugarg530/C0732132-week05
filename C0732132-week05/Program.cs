@@ -10,6 +10,7 @@ namespace C0732132_week05
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
