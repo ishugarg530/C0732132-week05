@@ -15,6 +15,7 @@ namespace C0732132_week05
     }
     class Node
     {
+
         public Node() { }
         public Node floor;
         public Node elevatorUp;
